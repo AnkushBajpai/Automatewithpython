@@ -1,0 +1,54 @@
+2025-03-06 16:46:38,146 -  DEBUG -  Start of factorial(5%)
+2025-03-06 16:46:38,146 -  DEBUG -  i is 1, total is 1
+2025-03-06 16:46:38,146 -  DEBUG -  i is 2, total is 2
+2025-03-06 16:46:38,146 -  DEBUG -  i is 3, total is 6
+2025-03-06 16:46:38,146 -  DEBUG -  i is 4, total is 24
+2025-03-06 16:46:38,146 -  DEBUG -  i is 5, total is 120
+2025-03-06 16:46:38,146 -  DEBUG -  End of factorial(5%)
+2025-03-06 16:46:38,146 -  DEBUG -  End of program
+2025-03-06 16:47:34,864 -  DEBUG -  Start of factorial(5%)
+2025-03-06 16:47:34,864 -  DEBUG -  i is 1, total is 1
+2025-03-06 16:47:34,864 -  DEBUG -  i is 2, total is 2
+2025-03-06 16:47:34,864 -  DEBUG -  i is 3, total is 6
+2025-03-06 16:47:35,313 -  DEBUG -  i is 4, total is 24
+2025-03-06 16:47:35,313 -  DEBUG -  i is 5, total is 120
+2025-03-06 16:47:35,313 -  DEBUG -  End of factorial(5%)
+2025-03-06 16:47:35,313 -  DEBUG -  End of program
+2025-03-06 16:48:51,424 -  DEBUG -  Start of factorial(5%)
+2025-03-06 16:48:51,424 -  DEBUG -  i is 1, total is 1
+2025-03-06 16:48:51,424 -  DEBUG -  i is 2, total is 2
+2025-03-06 16:48:51,424 -  DEBUG -  i is 3, total is 6
+2025-03-06 16:48:51,424 -  DEBUG -  i is 4, total is 24
+2025-03-06 16:48:51,424 -  DEBUG -  i is 5, total is 120
+2025-03-06 16:48:51,424 -  DEBUG -  End of factorial(5%)
+2025-03-06 16:48:51,424 -  DEBUG -  End of program
+2025-03-06 16:51:49,072 -  DEBUG -  Start of factorial(5%)
+2025-03-06 16:51:49,073 -  DEBUG -  i is 1, total is 1
+2025-03-06 16:51:49,073 -  DEBUG -  i is 2, total is 2
+2025-03-06 16:51:49,073 -  DEBUG -  i is 3, total is 6
+2025-03-06 16:51:49,073 -  DEBUG -  i is 4, total is 24
+2025-03-06 16:51:49,073 -  DEBUG -  i is 5, total is 120
+2025-03-06 16:51:49,074 -  DEBUG -  End of factorial(5%)
+2025-03-06 16:51:49,075 -  DEBUG -  End of program
+2025-03-06 16:52:46,714 -  DEBUG -  Start of factorial(5%)
+2025-03-06 16:52:46,715 -  DEBUG -  i is 1, total is 1
+2025-03-06 16:52:46,715 -  DEBUG -  i is 2, total is 2
+2025-03-06 16:52:46,715 -  DEBUG -  i is 3, total is 6
+2025-03-06 16:52:46,715 -  DEBUG -  i is 4, total is 24
+2025-03-06 16:52:46,715 -  DEBUG -  i is 5, total is 120
+2025-03-06 16:52:46,715 -  DEBUG -  End of factorial(5%)
+2025-03-06 16:52:46,716 -  DEBUG -  End of program
+2025-06-07 11:49:18,198 -  DEBUG -  Start of factorial(5%)
+2025-06-07 11:49:18,294 -  DEBUG -  i is 1, total is 1
+2025-06-07 11:49:18,294 -  DEBUG -  i is 2, total is 2
+2025-06-07 11:49:18,294 -  DEBUG -  i is 3, total is 6
+2025-06-07 11:49:18,294 -  DEBUG -  i is 4, total is 24
+2025-06-07 11:49:18,294 -  DEBUG -  i is 5, total is 120
+2025-06-07 11:49:18,294 -  DEBUG -  End of factorial(5%)
+2025-06-07 11:50:09,225 -  DEBUG -  Start of factorial(5%)
+2025-06-07 11:50:09,225 -  DEBUG -  i is 1, total is 1
+2025-06-07 11:50:09,225 -  DEBUG -  i is 2, total is 2
+2025-06-07 11:50:09,225 -  DEBUG -  i is 3, total is 6
+2025-06-07 11:50:09,225 -  DEBUG -  i is 4, total is 24
+2025-06-07 11:50:09,225 -  DEBUG -  i is 5, total is 120
+2025-06-07 11:50:09,225 -  DEBUG -  End of factorial(5%)

@@ -1,0 +1,14 @@
+send2trash
+requests
+beautifulsoup4==4.7.1
+selenium==3.141.0
+openpyxl==2.6.1
+PyPDF2==1.26.0
+python-docx==0.8.10
+imapclient==2.1.0
+pyzmail36
+twilio
+ezgmail
+ezsheets
+pillow
+pyautogui
